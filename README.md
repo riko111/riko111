@@ -14,8 +14,6 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api?username=riko111&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="stats" />
-
 - 🔭 取り組み中: **フォーメーション図作成アプリをいつか完成させたい…**
 - ⚡ ひとこと: 早起きと人前で大きな声を出すことと知らない人に話しかけることが得意です
 
@@ -23,9 +21,7 @@
 
 <!-- ═══════════════════ 技術スタック ＆ プロフィール ═══════════════════ -->
 
-## 🛠 Tech Stack
-
-**Languages**
+## 🛠 Languages
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -53,11 +49,7 @@
 <div align="center">
 
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=riko111&hide_border=true&theme=tokyonight" alt="streak" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riko111&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="top langs" />
-
 <br /><br />
-
-<img src="https://github-profile-trophy.vercel.app/?username=riko111&theme=tokyonight&no-frame=true&column=7&margin-w=4" alt="trophies" />
 
 </div>
 
